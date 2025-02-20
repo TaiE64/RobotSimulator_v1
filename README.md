@@ -1,4 +1,4 @@
-## Chalmers Robot-Simulator:
+## Chalmers Robot-Simulator
 A simple, fast and configurable robot simulator for the robots available at chalmers university of technology.
 This includes the robots Kuka iiwa, UR10 and Yumi. With the grippers RG6, shadow hand and a threefinger gripper (name unknown)
 
